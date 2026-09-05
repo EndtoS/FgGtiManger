@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "user": "smoke-test-gqsg",
+  "algo": "scrypt(N=16384,r=8,p=1)+salt",
+  "salt": "c1707280c09a9ce9442283cd9273b7cf",
+  "passwordHash": "f3cadd7af7078a19f0de5e661df36c249c001c933458003341c3a1affbd42cb3",
+  "ipEnc": {
+    "iv": "40e29b1bfb6770e615608f3a",
+    "tag": "5b9eb2899208a6dc26ce4bae8ca7abac",
+    "data": "9721fea117d4687a7f48793a8a"
+  },
+  "commentEnc": {
+    "iv": "7e372636387d1ef6a6fe172c",
+    "tag": "47a38a2c4629249770c26f026b44e4d6",
+    "data": "a1f1efcd20"
+  },
+  "createdAt": "2026-09-05T05:13:49.673Z"
+}
