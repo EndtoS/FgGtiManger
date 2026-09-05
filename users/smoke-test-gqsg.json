@@ -14,5 +14,13 @@
     "tag": "47a38a2c4629249770c26f026b44e4d6",
     "data": "a1f1efcd20"
   },
-  "createdAt": "2026-09-05T05:13:49.673Z"
+  "createdAt": "2026-09-05T05:13:49.673Z",
+  "lastLogin": {
+    "at": "2026-09-05T05:13:56.651Z",
+    "ipEnc": {
+      "iv": "eec3ad8694ab94cdc7627506",
+      "tag": "70542b32d5e888501379d64cebca42f1",
+      "data": "c0f52758a67830088f0cbfcef0"
+    }
+  }
 }
