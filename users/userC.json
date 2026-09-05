@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "user": "userC",
+  "algo": "scrypt(N=16384,r=8,p=1)+salt",
+  "salt": "8310b6e59b008add451b2afccffab86f",
+  "passwordHash": "8916c0d3f3ffd07cd1c3aff20bcbb20226ea88f9fe25dce8e953b510889fe857",
+  "ipEnc": null,
+  "commentEnc": null,
+  "createdAt": "2026-09-05T05:27:58.476Z"
+}
